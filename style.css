@@ -19,7 +19,7 @@ body{
     
     padding: 20px;
    background-color: rgb(9, 1, 16);
-    width:230px;
+    width:300px;
     border-radius: 10px;
     border:5px solid;
     border-image-slice:1;
@@ -75,12 +75,12 @@ input{
     border:.5px solid blueviolet ;
     color:var(--secondary);
     border-radius: 8px;
-    margin-left: 65px;
+    margin-left: 100px;
     text-align: center;
 }
 #thank-you{
     display: none;
-    width:230px;
+    width:300px;
     background-color: var(--secondary);
     font-family: 'Courier New', Courier, monospace;
     padding: 30px 29px;
